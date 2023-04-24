@@ -646,13 +646,11 @@ PRODUCT_PACKAGES += \
     VZWAPNLib \
     uimremoteclient \
     uimremoteserver \
-    CarrierServices \
     CarrierSettings \
     CarrierWifi \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
     DiagMon \
     EuiccGoogle \
